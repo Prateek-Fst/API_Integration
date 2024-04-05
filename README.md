@@ -1,4 +1,4 @@
-# Dashboard Component
+# Gyan Grove Assignment
 
 This React component is designed to display recommended and upcoming events fetched from a backend API. It consists of sections for recommended shows and upcoming shows.
 
